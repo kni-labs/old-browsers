@@ -4,4 +4,4 @@ To be served (via conditional comments) when the user doesn't have an updated br
 > [**View Codepen**](http://codepen.io/dbox/pen/gaoraM)
 
 ### Install
-`bower install old-browsers`
+`npm install old-browsers`
