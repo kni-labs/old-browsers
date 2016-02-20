@@ -1,5 +1,4 @@
 .old-browsers {
-  z-index: 9999;
   position: relative;
   background: #fff;
   width: 100%;
@@ -22,7 +21,7 @@
     li {
       display: inline-block;
       padding: 0 25px;
-      img { width: 115px; border: 0; }
+      img { width: 115px; border: 0;}
       p { padding-top: 15px; color: #249AE1;}
     }
   }
