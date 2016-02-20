@@ -21,6 +21,7 @@ Place this directly under body tag:
 
 > [View demo](http://kni-labs.github.io/old-browsers/)
 
+Icons via [https://github.com/alrra/browser-logos](https://github.com/alrra/browser-logos)
 <br><br><br>
 <hr>
 *Let's be real – we're talking about IE here.
