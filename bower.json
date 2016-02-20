@@ -9,6 +9,7 @@
   "main": "old-browsers.scss",
   "keywords": [
     "browsers",
+    "old",    
     "conditional-comments"
   ],
   "license": "MIT",
