@@ -7,7 +7,7 @@ To be served (via conditional comments) when the user doesn't have an updated br
 Because people using old browsers* should have a frictionless way to upgrade. 
 
 - 1,887 bytes 
-- single line using conditional comments- 
+- single line using conditional comments
 - no redirecting to a 3rd party site
 - browser logos served from CDN
 
