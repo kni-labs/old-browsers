@@ -19,7 +19,8 @@ Place this directly under body tag:
 ```
 (Feel free to change `[if lt IE 9]` to whatever lowest browser you are supporting.)
 
-> [**View Codepen**](http://codepen.io/dbox/pen/gaoraM)
+> [View demo](http://kni-labs.github.io/old-browsers/)
+
 <br><br><br>
 <hr>
->*Let's be real – we're talking about IE here.
+*Let's be real – we're talking about IE here.
