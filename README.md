@@ -11,5 +11,3 @@ Place this directly under body tag:
 ```
 
 > [**View Codepen**](http://codepen.io/dbox/pen/gaoraM)
-
-**Note:** npm install method is currently outdated. New one in the works..
